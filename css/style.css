@@ -63,10 +63,15 @@
 }
 
 .div-section1{
+    max-width: 1708px;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
 }
-
+.div-img{
+max-width: 801px;
+width: 100%;
+}
 .img{
 
     width: 100%;
